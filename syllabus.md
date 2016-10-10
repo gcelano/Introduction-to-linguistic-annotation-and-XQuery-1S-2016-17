@@ -50,5 +50,8 @@
   * In-class examination: writing of XQuery scripts to solve problems concerning data extraction
 
 * 23 January 2016
+  * Examination
+  
+* 30 January 2016
   * Recap and prospects 
   
